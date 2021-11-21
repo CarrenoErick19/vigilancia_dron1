@@ -8,7 +8,7 @@ INSERT INTO relacion_dron_encargado values ('38783','2');
 INSERT INTO relacion_dron_encargado values ('55979','3');
 INSERT INTO relacion_dron_encargado values ('38783','3');
 INSERT INTO relacion_dron_encargado values ('33827','4');
-INSERT INTO relacion_dron_encargado values ('57996','5);
+INSERT INTO relacion_dron_encargado values ('57996','5');
 INSERT INTO relacion_dron_encargado values ('42453','5');
 INSERT INTO relacion_dron_encargado values ('87574','6');
 INSERT INTO relacion_dron_encargado values ('47824','7');
